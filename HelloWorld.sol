@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 
 // Simple Hello World Solidity smart contract
+
 /* For fast results, run this code in the
    remix.ethereum.org IDE. */
 
