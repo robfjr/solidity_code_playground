@@ -17,7 +17,7 @@ contract CounterDemo {
         currentCount += 1;
     }
 
-    // decrements or decrease a number
+    // decrements or decreases a number
     function decrement() external {
         currentCount -= 1;
     }
