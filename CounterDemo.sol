@@ -22,3 +22,4 @@ contract CounterDemo {
         count -= 1;
     }
 }
+
