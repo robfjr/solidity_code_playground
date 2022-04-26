@@ -10,16 +10,16 @@ pragma solidity ^0.8.7;
 
 contract CounterDemo {
 
-    uint public count;
+    uint public currentCount;
 
     // increments or increases a number
-    function inc() external {
-        count += 1;
+    function increment() external {
+        currentCount += 1;
     }
 
     // decrements or decrease a number
-    function dec() external {
-        count -= 1;
+    function decrement() external {
+        currentCount -= 1;
     }
-}
+}    
 
